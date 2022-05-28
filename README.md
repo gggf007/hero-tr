@@ -1,7 +1,7 @@
 ## 鸣谢
 
 - [Project X](https://github.com/XTLS/Xray-core)
-- [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)
+- [v2ray-heroku](https://github.com/gggf007/heroku-trojan)
 - [v2argo](https://github.com/funnymdzz/v2argo)
 
 ## 概述
@@ -29,7 +29,7 @@
 
  1. Fork 本项目到自己的 GitHub 账户（用户名以 `example` 为例）
  2. 修改项目名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的项目名以 `demo` 为例）
- 3. 登陆heroku后，浏览器访问 dashboard.heroku.com/new?template=<https://github.com/gggf007/ok>
+ 3. 登陆heroku后，浏览器访问 dashboard.heroku.com/new?template=<https://github.com/gggf007/heroku-trojan
 
 ### 变量
 
